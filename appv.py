@@ -3,6 +3,7 @@ from pathlib import Path
 import numpy as np
 import streamlit as st
 from PIL import Image, ImageDraw
+from streamlit-image-coordinates import streamlit-image-coordinates
 st.set_page_config(page_title="AutoMRI V3", layout="wide")
 st.title("AutoMRI V3 – MRI Parameter Simulator")
 st.caption("Interactive 3-plane localizer + educational MRI parameter simulator.")
