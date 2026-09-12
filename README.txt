@@ -1,4 +1,4 @@
 streamlit
 pillow
 numpy
-streamlit_image_coordinates
+streamlit-image-coordinates
